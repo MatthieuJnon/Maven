@@ -9,5 +9,8 @@
         <module name="TP_ESEO_Maven" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TP_ESEO_Maven" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
