@@ -1,7 +1,10 @@
+import api.GetFromApi;
+
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins2");
+        GetFromApi.fetchAndSaveAllDepartements();
+        System.out.println("Done");
     }
 
 }
