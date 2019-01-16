@@ -4,7 +4,7 @@ public class App {
 
     public static void main(String[] args) {
         GetFromApi.fetchAndSaveAllDepartements();
-        System.out.println("Done");
+        System.out.println("All good");
     }
 
 }
