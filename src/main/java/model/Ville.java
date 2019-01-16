@@ -79,8 +79,8 @@ public class Ville {
     public String toString() {
         return "Ville{" +
                 "nom='" + nom + '\'' +
-                ", code=" + code +
-                ", codeDepartement=" + codeDepartement +
+                ", code =" + code +
+                ", codeDepartement =" + codeDepartement +
                 ", codeRegion=" + codeRegion +
                 ", population=" + population +
                 ", codesPostaux=" + codesPostaux +
