@@ -81,9 +81,9 @@ public class Ville {
                 "nom='" + nom + '\'' +
                 ", code =" + code +
                 ", codeDepartement =" + codeDepartement +
-                ", codeRegion=" + codeRegion +
-                ", population=" + population +
-                ", codesPostaux=" + codesPostaux +
+                ", codeRegion =" + codeRegion +
+                ", population =" + population +
+                ", codesPostaux =" + codesPostaux +
                 '}';
     }
 
